@@ -1,4 +1,4 @@
-# Java, Spring Boot, Hello, NO Dockerfile
+# Java, Spring Boot, NO Dockerfile
 
 Dev Mode
 
